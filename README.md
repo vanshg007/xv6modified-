@@ -1,4 +1,4 @@
-# xv6-riscv (Extended)
+# xv6-riscv (Modified)
 
 An extended fork of [MIT xv6-riscv](https://github.com/mit-pdos/xv6-riscv) — a teaching OS for RISC-V — with additional kernel features and test programs.
 
