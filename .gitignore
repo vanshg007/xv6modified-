@@ -1,0 +1,13 @@
+.DS_Store
+*.o
+*.d
+*.asm
+*.sym
+kernel/kernel
+user/initcode
+user/initcode.out
+user/_*
+user/usys.S
+mkfs/mkfs
+fs.img
+.gdbinit
